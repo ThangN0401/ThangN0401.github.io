@@ -2,6 +2,7 @@
 layout: default
 title: Thang Nguyen
 ---
+[About Me](about.md)
 
 # Hi, I'm Thang Nguyen 👋
 
