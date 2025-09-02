@@ -2,6 +2,7 @@
 layout: default
 title: Thang Nguyen
 ---
+
 [About Me](about.md)
 
 # Hi, I'm Thang Nguyen 👋
@@ -11,8 +12,10 @@ Cybersecurity student focused on system & network administration, databases, and
 ## Projects
 - **Blackjack (Java, OOP)** — GUI + game logic demonstrating inheritance & interfaces.  
   [Source](https://github.com/ThangN0401/Blackjack)
+
 - **Blood Donation System (ERD/SQL)** — Entities for donors, hospitals, inventory, requests; relational design and queries.  
   [Source](#) <!-- add link if you have it -->
+
 - **Raspberry Pi RAID + WordPress** — Multi-disk setup, filesystem, and self-hosted WordPress on Pi OS.  
   [Write-up](#) <!-- add link to a repo or README write-up -->
 
@@ -23,5 +26,5 @@ Cybersecurity student focused on system & network administration, databases, and
 
 ## Contact
 - **GitHub:** [ThangN0401](https://github.com/ThangN0401)  
-- **LinkedIn:** *add your link here*
+- **LinkedIn:** *add your link here*  
 - **Email:** *optional*
