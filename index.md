@@ -4,6 +4,9 @@ title: Thang Nguyen
 ---
 
 [About Me](about.md)
+- **Raspberry Pi RAID + WordPress** — Multi-disk setup, filesystem, and self-hosted WordPress on Pi OS.  
+  [Project Page](pi-project.md)
+
 
 # Hi, I'm Thang Nguyen 👋
 
