@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Thang Nguyen
-description: Cybersecurity Student | Systems & Network Administration | Projects & Interests
+description: Cybersecurity • Sys/Net Admin • Projects
+permalink: pretty       # /page/ instead of /page.html
