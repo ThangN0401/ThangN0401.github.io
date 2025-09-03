@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Raspberry Pi RAID + WordPress
+title: Home
 ---
+
 
 # Raspberry Pi RAID + WordPress Project
 
