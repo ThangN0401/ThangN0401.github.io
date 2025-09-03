@@ -41,3 +41,13 @@ body {
   padding: 0 20px;
 }
 
+/* Gallery */
+.gallery img {
+  width: 100%;         /* Fill the container’s width */
+  height: 200px;       /* Consistent height for all */
+  object-fit: cover;   /* Crop to fit without distortion */
+  border-radius: 8px;
+  display: block;
+}
+
+
