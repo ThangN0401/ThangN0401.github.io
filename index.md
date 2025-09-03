@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Thang Nguyen
+title: Home
 ---
+
 
 [About Me](about.md)
 - **Raspberry Pi RAID + WordPress** — Multi-disk setup, filesystem, and self-hosted WordPress on Pi OS.  
   [Project Page](pi-project.md)
 
 
-# Hi, I'm Thang Nguyen 👋
+# Hi, I'm Thang Nguyen 
 
 Cybersecurity student focused on system & network administration, databases, and secure software.
 
