@@ -5,7 +5,7 @@ title: Home
 
 
 
-# Hi, I'm Thang Nguyen 
+# Hi, I'm Steve Nguyen 
 
 Cybersecurity student focused on system & network administration, databases, and secure software.
 
