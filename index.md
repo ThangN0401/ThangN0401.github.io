@@ -6,6 +6,7 @@ title: Home
 
 
 # Hi, I'm Steve Nguyen 
+![My photo](/assets/img/E265966C-E192-48C1-BDDD-6840370F2854_1_105_c.jpeg){: style="max-width: 220px; border-radius: 50%; margin: 20px auto; display: block;"}
 
 Cybersecurity student focused on system & network administration, databases, and secure software.
 
