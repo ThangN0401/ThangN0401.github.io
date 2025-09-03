@@ -1,3 +1,11 @@
+/* Make any image inside the page content scale down to the container */
+.content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 /* Reset basics */
 body {
   margin: 0;
